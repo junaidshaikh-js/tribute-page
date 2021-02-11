@@ -1,0 +1,51 @@
+body{
+    margin: 20px;
+    padding: 10px;
+    background-color: #ddd8d8;
+    box-sizing: border-box;
+    font-family: 'Baloo Bhai 2', cursive;
+}
+#title{
+    text-align: center;
+    font-size: 3rem;
+    /* line-height: 0px; */
+    color: red;
+    text-shadow: 2px 2px 1px rgb(0, 0, 0);
+    margin: -22px;
+}
+
+h1+p{
+    text-align: center;
+    background-color: darkkhaki;
+    font-size: 1rem;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
+
+#img-caption{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#tribute-info{
+    display: block;
+    margin: auto;
+    padding: 20px;
+    text-align: justify;
+    width: 50vw;
+}
+
+a:visited{
+    color: black;
+}
+
+footer{
+    text-align: right;
+    text-decoration: underline;
+}

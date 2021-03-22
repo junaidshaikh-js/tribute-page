@@ -16,7 +16,7 @@ This is a solution to the [Build a Tribute Page](https://www.freecodecamp.org/le
 
 ## Overview
 
-This challenge is a part of FreeCodeCamp's Responsive Web Desging certification course.
+This challenge is a part of FreeCodeCamp's Responsive Web Design certification course.
 
 ### Preview
 

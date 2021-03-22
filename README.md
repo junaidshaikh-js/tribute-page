@@ -40,7 +40,7 @@ Various user stories mentioned in the challenge need to be fulfilled.
 
 ### What I learned
 
-This is my very first challenge in the journey of web developement. After completing the responsive web desing course, this was the challenge to test my knowledge of HTML and CSS. In this challenge I used various semantic elements of html and different selectors to style them. 
+This is my very first challenge in the journey of web developement. After completing the responsive web desing course, this was the challenge to test my knowledge of HTML and CSS. In this challenge I used various semantic elements and different selectors to style them. 
 
 ## Author
 
